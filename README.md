@@ -47,3 +47,8 @@ Contributors
   -Timothy Milne
   -Kyle Peterson
   -Jessica Lamb
+
+--------------------------------------------------------------------------------
+# Module Three Project Log - Team Development: QA and Testing Plan
+--------------------------------------------------------------------------------
+
