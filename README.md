@@ -111,6 +111,8 @@ Traceability matrix has a bug reporting
 
 
 Module 4
+
+
 -What parts of the testing process did the team perceive to go well?
 Communicating when assets are finished and letting other team members test it, to get a fresh pair of eyes in case something was missed. 
 
