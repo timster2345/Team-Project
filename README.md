@@ -107,5 +107,26 @@ Steps to resolution
 How will the bugs and their changes be tracked over time?
  A Bug support ticket will be submitted with details in the “Bugs” sheet of the Traceability matrix. This will serve as both documentation and tracking of the bug and its resolution	
 Traceability matrix has a bug reporting 
-	
+
+
+
+Module 4
+-What parts of the testing process did the team perceive to go well?
+Communicating when assets are finished and letting other team members test it, to get a fresh pair of eyes in case something was missed. 
+
+-How were bugs identified and corrected?
+Communication was perfect, team members appropriately communicated the issue and filled out the appropriate bug report sheet with accurate information about the bug and what was supposed to happen compared to what happened. This is what we want to happen when bugs are encountered. 
+
+-In terms of the QA and testing process, what would you do differently to improve the process?
+Implementing a team play method to test all assets as a whole and communicate clear timeframes for each feature, so that we do not spend too much time on things that are not required.
+
+-What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
+Discord has been useful in terms of communication via verbal, text, image, and linking documents, while the traceability matrix has proven useful in terms of updates, responsibilities, and reports. Added a level design sheet to the matrix to get a visual of where components will be positioned as well as the overall puzzle layout. 
+
+-Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+Communication through email was mentioned, but not utilized, as Discord has proven to be useful in this area. 
+
+-How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+Since we knew we had to design a sidescroller 2D level, we decided to utilize Google Sheets to map out the single level layout, which was also useful for real time updates and not having to pass a single spreadsheet back and forth. The traceability matrix and Google sheets allowed us to check out who was working on a specific asset, so multiple members did not work on the same thing simultaneously. 
+
 
