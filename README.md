@@ -131,4 +131,25 @@ Communication through email was mentioned, but not utilized, as Discord has prov
 -How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
 Since we knew we had to design a sidescroller 2D level, we decided to utilize Google Sheets to map out the single level layout, which was also useful for real time updates and not having to pass a single spreadsheet back and forth. The traceability matrix and Google sheets allowed us to check out who was working on a specific asset, so multiple members did not work on the same thing simultaneously. 
 
+Module 5
+
+-What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+Bug reporting methods went well; We kept up with testing each other's feature adds and reported any bugs found in our matrix. We reported in discord as well so the bug could be followed up with in a certain period of time.
+We followed through with our team play time. This successfully coordinated us and we got on the same page about bug priorities and feature priorities. This is what we were aiming for with teamplay.
+
+-What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+We haven’t encountered anything that outright went wrong. We’ve planned for bugs and setbacks and adjusted accordingly. When one member struggles, they reach out and get help from the group or handoff the bug to another member for fresh eyes.
+
+-How were the previous evaluations integrated into this latest stage?
+We implemented a system in our traceability matrix so members could “check out” features to work on and prevent overlapping work, and merge conflicts. 
+While no issues were reported we improved on our previous success, and furthered our bug reporting and resolving abilities.
+
+-What would you do differently to improve the collaboration or development process?
+Utilize all our development resources such as discord groups, Unreal message boards, Game dev groups, and use clear code comments more frequently.
+
+-Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+While not all tools were used equally, every one served its purpose and we were able to integrate/test them in our development process.
+
+-Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
+For this Beta, we finished off Pickups, Interactables, Character movement, and the Damage system. For the final release, we’re finishing the Health system, UI, the puzzle, the overgrowth door and the pieces to pass it.
 
