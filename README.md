@@ -153,3 +153,20 @@ While not all tools were used equally, every one served its purpose and we were 
 -Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
 For this Beta, we finished off Pickups, Interactables, Character movement, and the Damage system. For the final release, we’re finishing the Health system, UI, the puzzle, the overgrowth door and the pieces to pass it.
 
+Module 6
+
+What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+We designated certain components to each member to build out. One built the overall design aesthetic of the level. One built the powerups to be visually distinct and appealing as well as communicate function. One built the crystals. This division helped us all contribute our ideas through proper communication through discord and the traceability matrix.
+
+What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+There were several visual bugs that needed tweaking as we built the level. We dialed back the overall visuals to prevent overwhelming the player with information. We found the simpler design communicated important information more effectively.
+
+How were the previous evaluations integrated into this latest stage?
+We increased our efforts using the resources that worked best for us. Namely frequent discord communications and traceability matrix updates. We increased our design focus on the elements in the game that were working well.
+
+What would you do differently to improve the collaboration or development process?
+We could have directed questions to specific team members to elicit a response more promptly. We could have focused on collaborating our work when team members’ free time overlapped.
+
+Were there any tools or techniques that you did not find helpful in the success of your project 
+development? Why?
+Outside of our initial team meeting, we never utilized email as an effective and reliable communication method. While we didn’t use every method of communication the same amount, we did at least try them all and continued using the ones that were most effective for our team dynamic.
